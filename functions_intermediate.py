@@ -22,8 +22,6 @@ z['y'] = 20
 
 #Iterate Through a List of Dictionaries
 
-
-
 def iterateDictionary(some_list):
     for student in some_list:
         output = ""
